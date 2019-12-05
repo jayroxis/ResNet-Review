@@ -11,12 +11,19 @@ This is the course project CS: 5824 Advanced Machine Learning.
 1. This is an extended work that based on 
 https://github.com/a-martyn/resnet
 2. The dependencies for running the code.
+
 matplotlib==3.0.3
+
 numpy==1.16.2
+
 pandas==0.24.2
+
 seaborn==0.9.0
+
 jupyter==1.0.0
+
 torch==1.0.1.post2
+
 torchvision==0.2.2.post3
 
 ## References
